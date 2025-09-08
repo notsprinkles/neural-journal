@@ -16,12 +16,12 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀Deployed
 
 - https://vercel.com/sprinkles1113s-projects/neural-journal
 ---
 
-## 🛠️ Deployed
+## 🛠️Tech Stack
 
 - **Frontend:** React, Vite, CSS Modules, Recharts  
 - **Backend:** Node.js, Express  
